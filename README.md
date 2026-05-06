@@ -1,25 +1,15 @@
 ## Hi there 👋
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreizhvaleuski&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreizhvaleuski&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=andreizhvaleuski&show_icons=true" />
-</picture>
+### My skills
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreizhvaleuski&layout=compact&theme=dark"
+    srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,dotnet&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreizhvaleuski&layout=compact"
+    srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,dotnet&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreizhvaleuski&layout=compact" />
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,dotnet&theme=light" />
 </picture>
